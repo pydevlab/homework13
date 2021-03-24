@@ -1,2 +1,3 @@
 # homework13
-Курс "DevOps Engineer" от LevelUp. Тема: Jenkins
+Домашнее задание 13 <br>
+<b>jenkins_console_output.txt</b> - вывод консоли Jenkins <br>
