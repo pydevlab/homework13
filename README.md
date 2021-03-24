@@ -1,3 +1,4 @@
 # homework13
 Домашнее задание 13 <br>
 <b>jenkins_console_output.txt</b> - вывод консоли Jenkins <br>
+Деплоим форк этого репозитория: https://github.com/pydevlab/rock-paper-scissors
